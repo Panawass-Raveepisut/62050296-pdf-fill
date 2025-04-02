@@ -1,0 +1,10 @@
+{
+    "name": "php/fill-test",
+    "description": "php fill pdf test",
+    "require": {
+        "setasign/fpdf": "^1.8",      
+        "tecnickcom/tcpdf": "^6.4",
+        "setasign/fpdi": "^2.6",
+        "fpdf/fpdf": "^1.86"
+    }
+}

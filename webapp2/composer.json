@@ -1,0 +1,13 @@
+{
+    "name": "web/app-2",
+    "description": "web app 2 test",
+    "autoload": {
+        "psr-4": {
+            "Web\\App2\\": "src/"
+        }
+    },
+    "require": {
+        "setasign/fpdf": "^1.8",      
+        "tecnickcom/tcpdf": "^6.4"     
+    }
+}
